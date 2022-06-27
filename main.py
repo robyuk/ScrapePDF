@@ -1,3 +1,4 @@
+# Install the PyMuPDF library
 import fitz
 
 with fitz.open("students.pdf") as pdf:
